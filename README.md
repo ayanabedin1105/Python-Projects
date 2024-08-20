@@ -1,0 +1,1 @@
+Contains some python projects for begineers and intermediate level. Feel free to fork and use it.
